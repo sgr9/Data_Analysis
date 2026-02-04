@@ -86,25 +86,25 @@ Data ➡️ MySQL ➡️ Data Cleaning & Preparation ➡️ EDA ➡️ Power BI 
 ### ✅ Page 1: Home  
 > Overview of the banking data with summary statistics and key visuals.  
 
-<img src="Banking_Dashboard/page1_home.png" alt="Page 1 - Home" width="700"/>
+<img src="page1_home.png" alt="Page 1 - Home" width="700"/>
 
 ---
 
 ### ✅ Page 2: Loan Analysis  
 > Insights into loan distribution, types, and customer segments.  
 
-<img src="Banking_Dashboard/page2_loan_analysis.png" alt="Page 2 - Loan Analysis" width="700"/>
+<img src="page2_loan_analysis.png" alt="Page 2 - Loan Analysis" width="700"/>
 
 ---
 
 ### ✅ Page 3: Deposit Analysis  
 > Breakdown of account balances, deposit types, and correlation patterns.  
 
-<img src="Banking_Dashboard/page3_deposit_analysis.png" alt="Page 3 - Deposit Analysis" width="700"/>
+<img src="page3_deposit_analysis.png" alt="Page 3 - Deposit Analysis" width="700"/>
 
 ---
 
 ### ✅ Page 4: Summary  
 > Final insights from EDA, including correlations and demographic trends.  
 
-<img src="Banking_Dashboard/page4_summary.png" alt="Page 4 - Summary" width="700"/>
+<img src="page4_summary.png" alt="Page 4 - Summary" width="700"/>
